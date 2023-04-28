@@ -23,7 +23,6 @@
   --color-primary: #000000;
   --color-secondary:#2082f4;
 }
-
 /* Smooth scroll behavior */
 :root {
   scroll-behavior: smooth;
@@ -500,7 +499,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background:#222222;
+    background:#2082f4;
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
